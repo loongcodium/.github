@@ -9,9 +9,11 @@ Making VSCodium extensions work on LoongArch! We test extensions for compatibili
 | Extension | Status | Notes |
 |-----------|---------|-------|
 | [clangd](https://open-vsx.org/extension/llvm-vs-code-extensions/vscode-clangd) | ✅ Working | Requires `clangd` installed on the system beforehand |
+| [Even Better TOML](https://open-vsx.org/extension/tamasfe/even-better-toml) | ✅ Working | Once installed, configure `Bundled` to `false` |
 | [Go](https://open-vsx.org/extension/golang/Go) | ✅ Working | Works out of the box, automatically install related binaries |
 | [Python](https://open-vsx.org/extension/ms-python/python) | ✅ Working | Works out of the box |
 | Pylance | 🔄 Alternative | Use [BasedPyright](https://open-vsx.org/extension/detachhead/basedpyright) instead, see https://github.com/VSCodium/vscodium/discussions/1641 |
+| [Tinymist Typst](https://open-vsx.org/extension/myriad-dreamin/tinymist) | 😭 Not Working | Unsupported architecture |
 | [rust-analyzer](https://open-vsx.org/extension/rust-lang/rust-analyzer) | 🔄 Alternative | Use [rust-analyzer-no-server](https://open-vsx.org/extension/loong-vsx/rust-analyzer) instead, see [loongcodium/rust-analyzer-no-server](https://github.com/loongcodium/rust-analyzer-no-server) |
 
 ## Contributing
