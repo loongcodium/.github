@@ -14,6 +14,7 @@ Making VSCodium extensions work on LoongArch! We test extensions for compatibili
 | [Go](https://open-vsx.org/extension/golang/Go) | ✅ Working | Works out of the box, automatically install related binaries |
 | [Python](https://open-vsx.org/extension/ms-python/python) | ✅ Working | Works out of the box |
 | Pylance | 🔄 Alternative | Use [BasedPyright](https://open-vsx.org/extension/detachhead/basedpyright) instead, see https://github.com/VSCodium/vscodium/discussions/1641 |
+| Remote - SSH | 🔄 Alternative | Use [Open Remote - SSH](https://open-vsx.org/extension/jeanp413/open-remote-ssh) instead |
 | [Tinymist Typst](https://open-vsx.org/extension/myriad-dreamin/tinymist) | 😭 Not Working | Unsupported architecture |
 | [rust-analyzer](https://open-vsx.org/extension/rust-lang/rust-analyzer) | 🔄 Alternative | Use [rust-analyzer-no-server](https://open-vsx.org/extension/loong-vsx/rust-analyzer) instead, see [loongcodium/rust-analyzer-no-server](https://github.com/loongcodium/rust-analyzer-no-server) |
 
