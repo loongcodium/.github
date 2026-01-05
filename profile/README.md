@@ -9,7 +9,7 @@ Making VSCodium extensions work on LoongArch! We test extensions for compatibili
 | Extension | Status | Notes |
 |-----------|---------|-------|
 | [clangd](https://open-vsx.org/extension/llvm-vs-code-extensions/vscode-clangd) | ✅ Working | Requires `clangd` to be installed on the system beforehand |
-| [CodeLLDB](https://open-vsx.org/extension/vadimcn/vscode-lldb) | 🔄 Alternative | Use [Native Debug](https://open-vsx.org/extension/webfreak/debug) instead |
+| [CodeLLDB](https://open-vsx.org/extension/vadimcn/vscode-lldb) | 🔄 Alternative | Use [LLDB DAP](https://open-vsx.org/extension/llvm-vs-code-extensions/lldb-dap) or [Native Debug](https://open-vsx.org/extension/webfreak/debug) instead |
 | [Even Better TOML](https://open-vsx.org/extension/tamasfe/even-better-toml) | ✅ Working | Once installed, configure `Bundled` to `false` |
 | [Go](https://open-vsx.org/extension/golang/Go) | ✅ Working | Works out of the box, automatically install related binaries |
 | [Python](https://open-vsx.org/extension/ms-python/python) | ✅ Working | Works out of the box |
