@@ -13,6 +13,7 @@ Making VSCodium extensions work on LoongArch! We test extensions for compatibili
 - **🔄 Alternative**: Original extension incompatible; a reliable drop-in replacement is available.
 - **😭 Not Working**: Unsupported on LoongArch with no viable alternatives at this time.
 
+<!-- table_start -->
 | Extension Name | Status | Notes | Latest Version |
 |----------------|--------|-------|----------------|
 | [clangd](https://open-vsx.org/extension/llvm-vs-code-extensions/vscode-clangd) | ✅ Working | Requires `clangd` to be installed on the system beforehand. | ![version](https://img.shields.io/badge/dynamic/json?url=https://open-vsx.org/api/llvm-vs-code-extensions/vscode-clangd&query=$.version&label=&color=brightgreen) |
@@ -31,6 +32,7 @@ Making VSCodium extensions work on LoongArch! We test extensions for compatibili
 | [rust-analyzer](https://open-vsx.org/extension/rust-lang/rust-analyzer) | 🔄 Alternative | Use [rust-analyzer-no-server](https://open-vsx.org/extension/loong-vsx/rust-analyzer) instead. See [loongcodium/rust-analyzer-no-server](https://github.com/loongcodium/rust-analyzer-no-server). | ![version](https://img.shields.io/badge/dynamic/json?url=https://open-vsx.org/api/loong-vsx/rust-analyzer&query=$.version&label=&color=blue) |
 | [Tinymist Typst](https://open-vsx.org/extension/myriad-dreamin/tinymist) | 😭 Not Working | Unsupported architecture. | ![version](https://img.shields.io/badge/dynamic/json?url=https://open-vsx.org/api/myriad-dreamin/tinymist&query=$.version&label=&color=red) |
 | [TypeScript + Webpack Problem Matchers](https://open-vsx.org/extension/amodio/tsl-problem-matcher) | ✅ Working | Works out of the box. | ![version](https://img.shields.io/badge/dynamic/json?url=https://open-vsx.org/api/amodio/tsl-problem-matcher&query=$.version&label=&color=brightgreen) |
+<!-- table_end -->
 
 ## Contributing
 
