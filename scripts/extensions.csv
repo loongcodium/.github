@@ -1,0 +1,17 @@
+original_id, status, actual_ids, notes
+llvm-vs-code-extensions.vscode-clangd, 0, , "Requires `clangd` to be installed on the system beforehand."
+vadimcn.vscode-lldb, 2, llvm-vs-code-extensions.lldb-dap | webfreak.debug,
+dbaeumer.vscode-eslint, 0, , 
+tamasfe.even-better-toml, 0, , "Once installed, configure `Bundled` to `false`."
+golang.Go, 0, , "Automatically installs related binaries."
+ms-toolsai.jupyter, 0, ,
+ms-python.vscode-pylance, 2, detachhead.basedpyright, "See this [discussion](https://github.com/VSCodium/vscodium/discussions/1641)."
+ms-python.python, 0, ,
+ms-python.debugpy, 1, wubzbz.debugpy, 
+ms-python.vscode-python-envs, 0, , 
+ms-python.pylint, 0, , 
+ms-vscode-remote.remote-ssh, 2, jeanp413.open-remote-ssh,
+charliermarsh.ruff, 1, loong-vsx.ruff,
+rust-lang.rust-analyzer, 2, loong-vsx.rust-analyzer, "See [loongcodium/rust-analyzer-no-server](https://github.com/loongcodium/rust-analyzer-no-server)."
+myriad-dreamin.tinymist, 3, ,
+amodio.tsl-problem-matcher, 0, ,
