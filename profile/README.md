@@ -40,6 +40,8 @@ Making VSCodium extensions work on LoongArch! We test extensions for compatibili
 - Help port extensions to LoongArch
 - Improve documentation
 
+Please read [CONTRIBUTING.md](../CONTRIBUTING.md) for detailed contribution guidelines, including how to update the extension compatibility list.
+
 ## Resources
 
 - [GitHub Discussions](https://github.com/orgs/loongcodium/discussions)
