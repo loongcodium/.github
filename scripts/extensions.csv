@@ -16,3 +16,5 @@ rust-lang.rust-analyzer, 2, loong-vsx.rust-analyzer, "See [loongcodium/rust-anal
 myriad-dreamin.tinymist, 0, , "Requires `tinymist` to be installed on the system beforehand."
 amodio.tsl-problem-matcher, 0, ,
 meta.pyrefly, 1, loong-vsx.pyrefly, 
+docker.docker, 2, loong-vsx.docker,
+tekumara.typos-vscode, 2, loong-vsx.typos-vscode,
