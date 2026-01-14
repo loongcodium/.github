@@ -15,4 +15,4 @@ charliermarsh.ruff, 1, loong-vsx.ruff,
 rust-lang.rust-analyzer, 2, loong-vsx.rust-analyzer, "See [loongcodium/rust-analyzer-no-server](https://github.com/loongcodium/rust-analyzer-no-server)."
 myriad-dreamin.tinymist, 0, , "Requires `tinymist` to be installed on the system beforehand."
 amodio.tsl-problem-matcher, 0, ,
-facebook.pyrefly, 1, loong-vsx.pyrefly, 
+meta.pyrefly, 1, loong-vsx.pyrefly, 
